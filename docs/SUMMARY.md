@@ -6,3 +6,4 @@
         * [Forking from VSTS to Github](docs/documentation/versionControl/VSTStoGithub.md)
 * [To Be Explored (TBE)](docs/problems/README.md)
     * [My Questions](part2/feedback_please.md)
+* [Q & A](docs/Q&A.md)
