@@ -4,6 +4,6 @@
     "structure": { 
       "summary": "SUMMARY.md" 
     } ,
-    "root" : "docs/",
+    "root" : "/docs",
     "pluginsConfig": {}
 }
