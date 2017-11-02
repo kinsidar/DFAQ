@@ -3,5 +3,6 @@
     "plugins": [],
     "structure": { 
       "summary": "docs/SUMMARY.md" 
-    } 
+    } ,
+    "pluginsConfig": {}
 }
