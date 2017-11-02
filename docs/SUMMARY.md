@@ -4,13 +4,11 @@
 * Documentation
   * [Hosting Gitbook on Github Pages](documentation/gitbookToGithub.md)
   * [Linking Local Gitbook Online](documentation/githubToGitbook.md)
-* [test Article ](test-article.md)
 
----
+## Database
 
-* Database
-  * [Microsoft Access 2016](database/microsoftAccess/README.md)
-    * [Add Query to Form](database/microsoftAccess/tableToQuery.md)
+* [Microsoft Access 2016](database/microsoftAccess/README.md)
+  * [Add Query to Form](database/microsoftAccess/tableToQuery.md)
 
 ---
 
