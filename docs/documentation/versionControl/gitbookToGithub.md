@@ -22,9 +22,12 @@ Credits to [this](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-fo
 3. Create [SUMMARY.md](https://toolchain.gitbook.com/pages.html) in /docs directory
 ```
   # Table of content 
-  * [Getting Started](docs/getting-started.md)
-  * [API Guide](docs/api-guide.md)
+  * [Getting Started](getting-started.md)
+  * [API Guide](api-guide.md)
 ```
+
+Since in book.json the "root" is specified as the `docs` folder, you don't need to specify that the .md files are in the folder (i.e. no need for /docs/ before the file name unless you store it in another subdirectory)
+
 4. Create and save .md files which are linked in SUMMARY.md in the /docs or its subdirectories (the book's chapters and articles)
 
 Now you have your basic structure of your book that is ready to be published!
