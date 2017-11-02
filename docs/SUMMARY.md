@@ -1,7 +1,7 @@
 # Table of content 
 * [Documentation](documentation/README.md)
     * [Hosting Gitbook on Github Pages](documentation/gitbookToGithub.md)
-    * [Publishing Local Gitbook to Github](documentation/githubToGitbook.md)
+    * [Linking Local Gitbook Online](documentation/githubToGitbook.md)
     
 
 * [Database](database/README.md)
