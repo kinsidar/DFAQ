@@ -12,17 +12,18 @@ Credits to [this](https://medium.com/@gpbl/how-to-use-gitbook-to-publish-docs-fo
 2. Create book.json in project's root  (Gitbook settings & structure)
 ```
 { 
-    "gitbook": "2.5.2",
+    "gitbook": "3.x.x",
     "structure": { 
-      "summary": "docs/SUMMARY.md" 
-    } 
+      "summary": "SUMMARY.md" 
+    } ,
+    "root" : "./docs"
 }
 ```
 3. Create [SUMMARY.md](https://toolchain.gitbook.com/pages.html) in /docs directory
 ```
   # Table of content 
   * [Getting Started](docs/getting-started.md)
-  * [Second Chapter](docs/api-guide.md)
+  * [API Guide](docs/api-guide.md)
 ```
 4. Create and save .md files which are linked in SUMMARY.md in the /docs or its subdirectories (the book's chapters and articles)
 
@@ -78,7 +79,7 @@ $ npm run docs:build
 $ cd _book
 $ git init
 $ git commit --allow-empty -m "Update docs"
-$ git checkout -b gh-pages (remove -b after first time running this command)
+$ git checkout -b gh-pages
 $ git add .
 $ git commit -am "Update docs"
 $ git push git@github.com:<username>/<repo> gh-pages --force
