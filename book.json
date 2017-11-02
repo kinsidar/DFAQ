@@ -1,5 +1,6 @@
 { 
     "gitbook": "2.5.2",
+    "plugins": [],
     "structure": { 
       "summary": "docs/SUMMARY.md" 
     } 
