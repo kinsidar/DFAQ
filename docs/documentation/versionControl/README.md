@@ -1,1 +1,0 @@
-# My solutions to problems encountered with version control
