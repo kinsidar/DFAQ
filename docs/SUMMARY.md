@@ -2,10 +2,11 @@
 
 * [Introduction](README.md)
 
-## Documentation
+## Work Environment
 
 * [Hosting Gitbook on Github Pages](documentation/gitbookToGithub.md)
 * [Linking Local Gitbook Online](documentation/githubToGitbook.md)
+* [Setting up RDA computer](documentation/setting-up-rda-computer.md)
 
 ## Database
 
