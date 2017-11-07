@@ -19,9 +19,8 @@
 
 ## To Be Explored
 
-* [My Questions](feedback_please.md)
+* [My Questions](problems/README.md)
 
 ## Q & A
 
 * [Why is gh-pages not pushed to VSTS?](Q&A.md)
-
