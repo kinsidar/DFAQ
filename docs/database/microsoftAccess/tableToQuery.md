@@ -1,4 +1,4 @@
-# Adding Query to your form
+# Replace Direct Table Link with Queries
 
 In this specific example, my form has been linked directly to a table. I rename that table which causes the form to lose track of the table and following error shows up when I click on the form:
 

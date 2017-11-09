@@ -12,7 +12,8 @@
 ## Database
 
 * [Microsoft Access 2016](database/microsoftAccess/README.md)
-  * [Add Query to Form](database/microsoftAccess/tableToQuery.md)
+  * [Replace direct table link with query](database/microsoftAccess/tableToQuery.md)
+  * [Split database FE and BE](database/microsoftAccess/split-database.md)
 
 ## Version Control
 
