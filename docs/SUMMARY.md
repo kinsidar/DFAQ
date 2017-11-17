@@ -1,31 +1,32 @@
 # Summary
 
-  * [Introduction](README.md)
+### Getting Started
+* [About this documentation](README.md)
 
-## Work Environment
+### Work Environment
 
-  * [Hosting Gitbook on Github Pages](documentation/host-gitbook-on-github.md)
-  * [Linking Local Gitbook Online](documentation/link-local-gitbook-online.md)
-  * [Setting up RDA computer](documentation/setting-up-rda-computer.md)
-  * [Backup your computer](documentation/backup-your-computer.md)
+* [Hosting Gitbook on Github Pages](documentation/host-gitbook-on-github.md)
+* [Linking Local Gitbook Online](documentation/link-local-gitbook-online.md)
+* [Setting up RDA computer](documentation/setting-up-rda-computer.md)
+* [Backup your computer](documentation/backup-your-computer.md)
 
-## Database
+### Database
 
-  * [Microsoft Access 2016](database/microsoftAccess/README.md)
+* [Microsoft Access 2016](database/microsoftAccess/README.md)
   * [Replace direct table link with query](database/microsoftAccess/tableToQuery.md)
   * [Split database FE and BE](database/microsoftAccess/split-database.md)
   * [Create Custon Ribbon for DB](database/microsoftAccess/add-ribbon.md)
   * [Adding Commands to Ribbon Clicks](database/microsoftAccess/ribbon-command.md)
 
-## Version Control
+### Version Control
 
-  * [Forking from VSTS to Github](versionControl/VSTStoGithub.md)
-  * [Deploy Gitbook to VSTS gh-pages branch](versionControl/gh-pages-push.md)
+* [Forking from VSTS to Github](versionControl/VSTStoGithub.md)
+* [Deploy Gitbook to VSTS gh-pages branch](versionControl/gh-pages-push.md)
 
-## To Be Explored
+### To Be Explored
   
-  * [My Questions](problems/README.md)
+* [My Questions](problems/README.md)
 
-## Q & A
+### Q & A
 
-  * [Why is gh-pages not pushed to VSTS?](Q&A.md)
+* [Why is gh-pages not pushed to VSTS?](Q&A.md)
