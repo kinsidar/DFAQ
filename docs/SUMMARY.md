@@ -30,4 +30,4 @@
 
 ### Q & A
 
-* [Why is gh-pages not pushed to VSTS?](Q&A.md)
+* [Questions and Answers](Q&A.md)
