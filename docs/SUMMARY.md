@@ -18,6 +18,7 @@
   * [Create Custon Ribbon for DB](database/add-ribbon.md)
   * [Adding Commands to Ribbon Clicks](database/ribbon-command.md)
   * [Upsizing Microsoft Access Database](database/upsize-access.md)
+  * [Configure MS SQL ODBC Connection](database/odbc-setup.md)
 
 ### Version Control
 
