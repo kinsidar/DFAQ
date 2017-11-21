@@ -24,10 +24,6 @@
 * [Forking from VSTS to Github](versionControl/VSTStoGithub.md)
 * [Deploy Gitbook to VSTS gh-pages branch](versionControl/gh-pages-push.md)
 
-### To Be Explored
-  
-* [My Questions](problems/README.md)
-
 ### Q & A
 
-* [Questions and Answers](Q&A.md)
+* [Questions and Answers](QA/Q&A.md)
