@@ -17,6 +17,7 @@
   * [Split database FE and BE](database/microsoftAccess/split-database.md)
   * [Create Custon Ribbon for DB](database/microsoftAccess/add-ribbon.md)
   * [Adding Commands to Ribbon Clicks](database/microsoftAccess/ribbon-command.md)
+  * [Upsizing Microsoft Access Database](database/microsoftAccess/upsize-access.md)
 
 ### Version Control
 
