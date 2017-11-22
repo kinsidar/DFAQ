@@ -6,7 +6,9 @@
 
 ![](img/add-odbc-driver.png)
 
-2. Click "Add" to add new ODBC driver
+2. Click "Add" and select the appropriate ODBC driver
+
+![](img/select-odbc-driver.png)
 
 3. Fill out name, description, server (server will be the one created through [this](/database/upsize-access.md) guide)
 
