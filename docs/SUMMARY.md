@@ -19,6 +19,7 @@
   * [Adding Commands to Ribbon Clicks](database/ribbon-command.md)
   * [Upsizing Microsoft Access Database](database/upsize-access.md)
   * [Configure MS SQL ODBC Connection](database/odbc-setup.md)
+  * [Link ODBC to MS Access](database/link-odbc-access.md)
 
 ### Version Control
 
