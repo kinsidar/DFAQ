@@ -2,9 +2,11 @@
 
 1. Locate and run ODBC Data Source Administrator with the appropriate Windows version
 
-2. Click "Add" to add new ODBC driver
+2. Select the appropriate tab to add ODBC driver to (e.g. User DSN for specific user)
 
 ![](img/add-odbc-driver.png)
+
+2. Click "Add" to add new ODBC driver
 
 3. Fill out name, description, server (server will be the one created through [this](/database/upsize-access.md) guide)
 
