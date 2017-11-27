@@ -28,3 +28,5 @@
 6. Rename the linked tables for your database to recognize (delete "dbo_")
 
     ![](img/rename-dbo.png)
+
+> IMPORTANT: If you modify the name of the table in the SQL Server, you need to delete the linked table in MS Access and re-import the renamed table. 
