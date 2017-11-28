@@ -20,6 +20,7 @@
   * [Upsizing Microsoft Access Database](database/upsize-access.md)
   * [Configure MS SQL ODBC Connection](database/odbc-setup.md)
   * [Link ODBC to MS Access](database/link-odbc-access.md)
+  * [Access-SQL Error 3622](database/error3622.md)
 
 ### Version Control
 
