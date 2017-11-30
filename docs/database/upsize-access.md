@@ -12,16 +12,16 @@
 
 2. Open SQL Server 2017 Configuration Manager to check that the current version of SQL Server is running
 
-    1. In SQL Server Services, for each SQL Server go to properties and under the advanced tab, Instance ID displays which version of SQL Server it is running.
+    > MSSQL14.MSSQLSERVER is a default instance of SQL Server 2017
+
+    <!-- 1. In SQL Server Services, for each SQL Server go to properties and under the advanced tab, Instance ID displays which version of SQL Server it is running.
 
     ![](img/sql-config-manager.png)
     
         - Make sure it displays MSSQL14.MSSQLSERVER
             > MSSQL14.MSSQLSERVER is a default instance of SQL Server 2017
 
-    ![](img/instanceID.png)
-
-    2. Stop the services of other servers that aren't running the current version
+    ![](img/instanceID.png) -->
 
 ### Create SQL Server & Database
 
@@ -36,15 +36,29 @@
 
     ![](img/sql-database.png)
 
+6. Input name for the database and select OK
+
+    ![](img/sql-db-creation.png)
+
+    - You should see the created empty database in your SSMS Object Explorer
+
+        ![](img/sql-db-list.png)
+
 ### Migrate Microsoft Access 
 
 6. Install and start [Microsoft SQL Server Migration Assistant 2017](https://www.microsoft.com/en-us/download/details.aspx?id=54255)
+
+7. You will be greeted by a Migration Assistant Wizard, which you can follow its prompts for your migration- select "next"
 
 7. Create new migration, select migrate to SQL 2017
 
     ![](img/new-migrate.png)
 
-8. Click "next" after selecting parts of the Access database you want to migrate
+8. Click "Add Database" and select the appropriate Backend Data you would like to convert to SQL Server
+
+    ![](img/add-database.png)
+
+8. Select the tables you want to migrate
 
     ![](img/selection.png)
 
