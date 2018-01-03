@@ -7,6 +7,7 @@
 
 * [Hosting Gitbook on Github Pages](documentation/host-gitbook-on-github.md)
 * [Linking Local Gitbook Online](documentation/link-local-gitbook-online.md)
+* [Add Style to your Gitbook](documentation/personalize.md)
 * [Setting up RDA computer](documentation/setting-up-rda-computer.md)
 * [Backup your computer](documentation/backup-your-computer.md)
 
